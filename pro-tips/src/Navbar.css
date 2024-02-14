@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.two{
+    width: 20vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
